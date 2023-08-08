@@ -2,7 +2,8 @@
 ![](https://dl.fbaipublicfiles.com/detectron2/Detectron2-Logo-Horz.png "detectron2 logo")
 
 
-2020年8月15日於新北創立坊舉辦交流會
+# 2020年8月15日於新北創立坊舉辦交流會
+上傳的項目為交流會當天所使用
 
 ## 活動介紹
 - 透過Detecron2進行口罩辨識
